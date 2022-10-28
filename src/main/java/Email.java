@@ -6,8 +6,10 @@ public class Email {
     private String lastName;
     private String password;
     private String department;
+    private String email;
     private int mailboxCapacity;
     private String alternateEmail;
+    private String companySuffix = "juliecompany.com";
     private int defaultPasswordLength = 10;
 
 
@@ -25,6 +27,10 @@ public class Email {
         // call a method that returns a random password
         this.password = randomPassword(defaultPasswordLength);
         System.out.println("Your password is: " + this.password);
+
+        // combine elements to generate email
+        this.email = firstName.toLowerCase() + "." + lastName.toLowerCase() + "@" + this.department + "." + companySuffix;
+        System.out.println("Your email is: " + this.email);
 
     }
 

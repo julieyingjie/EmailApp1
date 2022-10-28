@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aa3170f-e479-4de0-b1b7-d9f3149636d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmailApp.java" afterDir="false" />
+    <list default="true" id="3aa3170f-e479-4de0-b1b7-d9f3149636d9" name="Changes" comment="Add the SetDepartment Function and Set random password function">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Email.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +72,23 @@
       <option name="presentableId" value="Default" />
       <updated>1666915296193</updated>
       <workItem from="1666915297848" duration="29000" />
-      <workItem from="1666915330369" duration="2035000" />
+      <workItem from="1666915330369" duration="2432000" />
     </task>
+    <task id="LOCAL-00001" summary="Add the SetDepartment Function and Set random password function">
+      <created>1666917423117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666917423117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add the SetDepartment Function and Set random password function">
+      <created>1666917461161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666917461161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add the SetDepartment Function and Set random password function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the SetDepartment Function and Set random password function" />
   </component>
 </project>
